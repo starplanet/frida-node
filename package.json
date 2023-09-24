@@ -1,5 +1,5 @@
 {
-  "name": "frida",
+  "name": "@starplanet/frida",
   "version": "0.0.0",
   "authors": [
     "Frida Developers"
@@ -62,5 +62,8 @@
   },
   "bugs": {
     "url": "https://github.com/frida/frida-node/issues"
+  },
+  "publishConfig": {
+    "@starplanet:registry": "https://npm.pkg.github.com"
   }
 }
